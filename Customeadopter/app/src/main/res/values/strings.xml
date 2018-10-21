@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Customeadopter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="movie_name">
+        <item>Business man</item>
+        <item>Sultan</item>
+        <item>Raees</item>
+        <item>Tublight</item>
+        <item>Kabil</item>
+    </string-array>
+
+    <string-array name="movie_rating">
+        <item>Rating:8.5/10</item>
+        <item>Rating:7.5/10</item>
+        <item>Rating:8.5/10</item>
+        <item>Rating:9.5/10</item>
+        <item>Rating:7.0/10</item>
+
+
+    </string-array>
+</resources>

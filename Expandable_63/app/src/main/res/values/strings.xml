@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandable_63</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="header_titles">
+        <item>Action Movie</item>
+        <item>Romantic Movie</item>
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>Wanted</item>
+        <item>Kick</item>
+        <item>Ek th tiger</item>
+    </string-array>
+    <string-array name="h2_items">
+        <item>Ready</item>
+        <item>Bodyguard</item>
+        <item>Tere nam</item>
+    </string-array>
+</resources>

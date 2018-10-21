@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Department Management</string>
+    <string name="FCM_PREF">com.example.hasantarek.departmentmanagement.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.hasantarek.departmentmanagement.fcm_token</string>
+</resources>

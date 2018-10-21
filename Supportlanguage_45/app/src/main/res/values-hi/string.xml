@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="message">
+स्वागत हे</string>
+    <string name="hint_msg">नाम</string>
+    <string name="btn_lebel">Submit</string>
+    <string name="selected_language">Language</string>
+</resources>

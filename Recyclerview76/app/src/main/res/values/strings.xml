@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recyclerview76</string>
+    <string-array name="actor">
+        <item>Mahesh</item>
+        <item>Amir</item>
+        <item>Rithick</item>
+        <item>Sahrukh</item>
+        <item>Salman</item>
+        <item>Salman</item>
+    </string-array>
+    <string-array name="production">
+        <item>Bollywood</item>
+        <item>Bollywood</item>
+        <item>Bollywood</item>
+        <item>Bollywood</item>
+        <item>Bollywood</item>
+        <item>Bollywood</item>
+    </string-array>
+</resources>

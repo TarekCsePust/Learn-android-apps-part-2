@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recyclerview77</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string-array name="languages">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>PYTHON</item>
+        <item>JAVA SCRIPT</item>
+        <item>C#</item>
+        <item>ASSEMBLY</item>
+        <item>ANGULAR</item>
+        <item>BOOTSRAP</item>
+        <item>MYSQL</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>LARAVEL</item>
+        <item>ASP.NET</item>
+        <item>JAVA 2 EE</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/title_serach"
+        android:icon="@drawable/build"
+        app:showAsAction="ifRoom"
+        ></item>
+    <item
+        android:id="@+id/share"
+        android:title="@string/title_share"></item>
+    <item
+        android:id="@+id/color_red"
+        android:title="Red"></item>
+    <item
+        android:id="@+id/color_green"
+        android:title="Green"></item>
+</menu>

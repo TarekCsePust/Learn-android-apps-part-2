@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabletsupport_43</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="news_titles">
+        <item>Headline 1</item>
+        <item>Headline 2</item>
+        <item>Headline 3</item>
+        <item>Headline 4</item>
+        <item>Headline 5</item>
+        <item>Headline 6</item>
+    </string-array>
+    <string-array name="news_contents">
+        <item>            News Line one...\n
+             News Line two...\n
+             News Line three...\n
+             News Line four...\n
+             News Line five...\n
+             News Line six...\n</item>
+    </string-array>
+
+    <string name="title_activity_article">ArticleActivity</string>
+
+</resources>

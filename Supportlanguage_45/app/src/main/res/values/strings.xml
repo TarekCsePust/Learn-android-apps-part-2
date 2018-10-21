@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supportlanguage_45</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Hello welcome</string>
+    <string name="hint_msg">Name</string>
+    <string name="btn_lebel">Submit</string>
+    <string name="selected_language">Language</string>
+</resources>

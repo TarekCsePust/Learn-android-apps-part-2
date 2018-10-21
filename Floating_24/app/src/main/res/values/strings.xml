@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Floating_24</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="names">
+        <item>Tarek</item>
+        <item>Hasan</item>
+        <item>Lija</item>
+        <item>Mitu</item>
+        <item>Lucky</item>
+    </string-array>
+</resources>

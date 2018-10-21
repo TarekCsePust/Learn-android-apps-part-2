@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#ffb380"
+    tools:context="com.example.hasantarek.insertdata_32.Searchactivity">
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/sname"
+        android:hint="name"
+        android:layout_alignParentLeft="true"
+        />
+    <Button
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:onClick="search"
+        android:background="#e65c00"
+        android:text="Search"
+        android:layout_toRightOf="@+id/sname"
+        android:layout_alignParentRight="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile number"
+        android:id="@+id/smobile"
+        android:layout_below="@+id/sname"
+        android:layout_marginTop="150dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email address"
+        android:id="@+id/semail"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_below="@id/smobile"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:onClick="delete"
+        android:background="#e65c00"
+        android:layout_below="@+id/semail"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        />
+
+
+</RelativeLayout>

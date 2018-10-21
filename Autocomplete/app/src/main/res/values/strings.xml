@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Autocomplete</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Etaly</item>
+        <item>Australia</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragment_39</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="android_version">
+
+        <item>Cupcake</item>
+       <item> Eclair</item>
+        <item>FroYo</item>
+        <item> Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>IceCreamSandwich</item>
+        <item>Lollipop </item>
+        <item>Marsmallow</item>
+        <item>Naogut</item>
+
+
+    </string-array>
+</resources>
